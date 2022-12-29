@@ -1,6 +1,6 @@
 # Discord-Bot
 
-do not take this repository seriously
+do not take this repository seriously, for a server
 
 requirements:
 - npm
