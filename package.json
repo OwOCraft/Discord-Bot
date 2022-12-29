@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "discord-bot",
+  "description": "do not take this repository seriously, for a server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwOCraft/Discord-Bot.git"
+  },
+  "author": "logzinga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwOCraft/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/OwOCraft/Discord-Bot#readme"
+}
